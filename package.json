@@ -1,9 +1,25 @@
 {
   "name": "fast-dependencies-analyzer",
   "version": "0.0.1",
+  "description": "A tool get web dependencies with webpack",
   "main": "lib",
   "author": "titian <980242860@qq.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ti-tian/fast-dependencies-analyzer.git"
+  },
+  "keywords": [
+    "webpack",
+    "analyzer",
+    "dependency",
+    "tool"
+  ],
+  "files": [
+    "lib",
+    "package.json",
+    "README.md"
+  ],
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
