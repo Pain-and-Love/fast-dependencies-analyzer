@@ -1,0 +1,16 @@
+{
+  "name": "fast-dependencies-analyzer",
+  "version": "0.0.1",
+  "main": "lib",
+  "author": "titian <980242860@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0"
+  },
+  "dependencies": {
+    "webpack-merge": "^4.2.1",
+    "webpack": "^4.32.2"
+  }
+}
