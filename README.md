@@ -1,6 +1,6 @@
 <div align="center">
 <h1>fast-dependencies-analyzer</h1>
-Analysis of project dependencies in a short time
+Analyze project dependencies in a short time
 </div>
 <hr />
 
