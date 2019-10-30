@@ -2,6 +2,7 @@
 
 [原理介绍](https://juejin.im/post/5ce272c56fb9a07f0a2db1fc)
 
+
 ## 使用场景
 
 - （1）借助 git diff 分析出需要构建的资源，做单个页面的更新
